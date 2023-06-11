@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista zakupów</string>
+    <string name="add_item">Nazwa produktu</string>
+    <string name="add">Dodaj</string>
+    <string name="delete">Usuń</string>
+    <string name="shopping_list_title">Lista zakupów</string>
+    <string name="error">Błąd</string>
+    <string name="add_new_product">Dodaj nowy produkt</string>
+</resources>
